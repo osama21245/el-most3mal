@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "795354553855",
+    "project_id": "elmosta3ml",
+    "storage_bucket": "elmosta3ml.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:795354553855:android:dcbb12215d8bbe86639bca",
+        "android_client_info": {
+          "package_name": "cloud.osamaahmed.elmostaml"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB9L4_y4jpMEHYz5q9rHRCv2XSfDY5ZplE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
